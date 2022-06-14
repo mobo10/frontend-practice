@@ -1,0 +1,76 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Epilogue', sans-serif;
+}
+
+h1{
+    font-family: 'Epilogue', sans-serif, bold;
+    line-height: 1.5;
+    font-size: 3rem;
+    font-weight: 900;
+    
+
+
+}
+
+p{
+    color: grey;
+    line-height: 2;
+    
+}
+
+.navbar{
+    padding: 20px 20px;
+}
+.nav-item{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.desktop-img{
+    position: absolute;
+    width: 30%;
+    
+}
+.row{
+    padding: 3% 5%;
+    
+}
+.first{
+    padding: 5% 10%;
+   
+}
+#footer{
+    padding-top: 20%;
+}
+.foot{
+    padding: 10px 2px;
+}
+.button{
+    margin-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: transparent;
+    border: none;
+}
+.button2{
+    background-color: transparent;
+    border: none;
+}
+.button.button2:hover {
+    border: 2px solid black;
+    cursor: pointer;
+    
+}
+.fa-list{
+    color: purple;
+}
+.fa-calendar{
+    color: aqua;
+}
+.fa-bell{
+    color: gold;
+}
+.fa-clock{
+    color: red;
+}
